@@ -2,11 +2,12 @@
 The preference of cheese related to the country of origin and the characteristics of the cheese
 
 #Motivation
-As one of the most prominent emerging industries for the past few decades, the video game industry is set to grow even further. 
-Based on the pathway 1: studying new phenomena, this project will aim to examine the change in video game genres over the past decade, learning about the emergence and the disappearance of video game genres over time. 
-The information gathered will be a useful overview in the recent history of the industry and could be potentially valuable in terms of predicting future trends in this industry.
-
-Based on the pathway 1 country of origin related to characteristics.
+Based on the pathway 1: studying a new phenomena, this project will aim to examine if the country of origin is related to the characteristics of cheese.
+The information gathered will be a useful overview of origin of cheese as the preferences of the original regions. 
+Cheese makers could use this data to examine where they could best sell the different types of cheeses according to their characteristics. 
 
 #Data Sources
-www.cheese.com
+https://www.cheese.com/
+http://www.cheeselibrary.com/
+https://thecheeseatlas.com/
+https://cheesestore.github.io/ 
